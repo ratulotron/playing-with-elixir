@@ -102,3 +102,6 @@ _build/
 *.xhtml
 
 # End of https://www.gitignore.io/api/web,code,node,elixir,phoenix
+
+# macOS
+.DS_Store
